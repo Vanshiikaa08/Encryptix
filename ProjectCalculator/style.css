@@ -1,0 +1,23 @@
+.border{
+    border: 1px solid rgb(87, 83, 83);
+    border-radius: 1rem;
+    width: 200px;
+}
+
+.inputBar{
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
