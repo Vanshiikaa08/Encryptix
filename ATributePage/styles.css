@@ -1,0 +1,29 @@
+body {
+    background-image: url(./indian-flag.avif);
+    background-size: cover;
+}
+
+#name{
+    text-align: center;
+    color: #180161;
+}
+
+#image{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #005B41;
+    
+}
+
+.paragraph {
+    color:#BE3144;
+    font-weight: bold;
+    font-style: oblique;
+}
